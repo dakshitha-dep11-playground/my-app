@@ -3,3 +3,44 @@
 **/.idea
 **/.vscode
 **/*.iml
+
+# IntelliJ IDEA files
+.idea/
+
+# Compiled output
+out/
+build/
+target/
+
+# Log files
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Maven specific files
+target/
+*.iml
+
+# JavaFX specific files
+*.ipr
+*.iws
+
+
+# User-specific files
+*.iml
+*.log
+*.iws
+*.iws.ipr
+*.swp
+
+# Compiled bytecode
+*.class
+
+# Dependency directories
+bin/
+lib/
+
+
+
